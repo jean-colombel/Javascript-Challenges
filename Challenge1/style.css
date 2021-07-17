@@ -1,0 +1,14 @@
+.main-container {
+  margin-top: 24px;
+  padding: 10px;
+  text-align: center;
+}
+
+.flex-box-container-1 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.flex-box-container-1 div {
+  padding: 10px;
+}
